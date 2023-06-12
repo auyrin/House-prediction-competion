@@ -9,3 +9,4 @@ predict the price of houses as accurately as possible.
 - trained several models and tuned them
 - stacked the best performing models
 - blended the results of the stacked model with the results with the results of more powerful models
+- made a scatterplot of the actual values and predicted values.
