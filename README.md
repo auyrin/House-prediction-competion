@@ -1,5 +1,5 @@
 # House-prediction-competition
-predict the price of houses as accurately as possible. this could help us estimate the fair price of a house, given certain features.
+this is a kaggle competition, and the goal is to predict the price of houses as accurately as possible.
 
 ### Steps
 - used heatmaps to find the highly correlated features
