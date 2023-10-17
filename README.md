@@ -1,5 +1,5 @@
-# House-prediction-competion
-predict the price of houses as accurately as possible.
+# House-prediction-competition
+predict the price of houses as accurately as possible. this could help us estimate the fair price of a house, given certain features.
 
 ### Steps
 - used heatmaps to find the highly correlated features
